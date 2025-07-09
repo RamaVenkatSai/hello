@@ -1,2 +1,3 @@
 Made chages to B
 Changes will not reflect on Git
+Merge 
